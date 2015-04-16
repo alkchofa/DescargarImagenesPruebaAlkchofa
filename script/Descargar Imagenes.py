@@ -1,3 +1,9 @@
+#############################################################
+## Autor: Cantarell Maximiliano				#####
+## Version: 1.0 					#####
+## Descripcion: Descargar imagenes de un sitio web 	#####
+#############################################################
+
 import urllib
 import os
 from bs4 import BeautifulSoup
